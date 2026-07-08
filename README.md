@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hii I'm Fiza!!
 <br><br>I'm a **Bachelor of Engineering (BE) student in Robotics and Automation**, with a specialization/minor <br>in **Artificial Intelligence & Machine Learning**. I'm passionate about building intelligent systems <br>that can perceive, learn, and interact with the real world — combining robotics hardware with AI-driven <br>software to create autonomous, vision-enabled machines.<br><br>My academic and project work bridges:<br>- Robotics & Automation<br>- Artificial Intelligence & Machine Learning<br>-  Machine Vision & Computer Vision<br><br>I enjoy designing and prototyping robotic systems, training ML models, and exploring how AI can make <br>machines smarter and more autonomous. I'm always eager to collaborate on projects that combine <br>mechanical design, embedded systems, and intelligent software.<br><br>Languages & Tools<br>- **Languages:** Python, C, C++<br>- **CAD/Design:** Onshape<br>- **Domains:** Robotics, Automation, Machine Learning, Machine Vision
 
 
